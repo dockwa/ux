@@ -70,7 +70,7 @@ Keep spacing even around objects can help make a more cohesive interface and mak
 
 Hamburger menus can be unavoidable.
 However, if you can do without it, get rid of it.
-Hamburger menus are where all featues / actions in an interface go to die.
+Hamburger menus are where features / actions in an interface go to die.
 On a mobile app? Use a tab bar instead.
 
 ## System paradigms
