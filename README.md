@@ -1,7 +1,7 @@
 # UX
 
-A lot of the concepts may seem simple. 
-But many of them are easy traps to fall into. 
+A lot of the concepts may seem simple.
+But many of them are easy traps to fall into.
 Most of them are concepts that may _look nice_ on screen but have usibility issues.
 An interface should always (most of the time) weigh usability over looks.
 
@@ -46,6 +46,10 @@ The biggest issues with placeholders is that they dissapear when you start typin
 A label is clear and doesn't dissapear when you type.
 Using a placeholder as an example can also lead to confusion by the user whether something is already entered.
 [More on placeholders](https://uxdesign.cc/alternatives-to-placeholder-text-13f430abc56f#.36p3oc4qo)
+
+| Bad usage of placeholders | Context dissaprears when form is completed |
+| --- | --- |
+| ![Bad example](/img/placeholder-1.png) | ![Bad example](/img/placeholder-2.png) |
 
 ## Spacing (margin / padding)
 
