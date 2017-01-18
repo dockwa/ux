@@ -62,3 +62,11 @@ However, if you can do without it, get rid of it.
 Hamburger menus are where all featues / actions in an interface go to die.
 On a mobile app? Use a tab bar instead.
 
+## System paradigms
+
+Use paradigms that the device or operating system uses.
+If you are building for Android for example, use material design patterns.
+If you are building for the web, use a <select> input isntead of using a custom select dropdown.
+The select will be interpreted by the device you are on and displayed to the user appropriatly.
+If a use is on an iOS device, don't use patterns from Android and vice versus.
+Keep the user comfortable with what they know and use every day.
