@@ -5,6 +5,17 @@ But many of them are easy traps to fall into.
 Most of them are concepts that may _look nice_ on screen but have usibility issues.
 An interface should almost always weigh usability over looks.
 
+## Contents
+* [Typography](#typography)
+  * [Uppercasing](#uppercasing)
+  * [Line height](#line-height)
+  * [Font weight](#font-weight)
+  * [Typeface](#typeface)
+* [Placeholders](#placeholders)
+* [Spacing (margin / padding)](#spacing-margin--padding)
+* [Hamburger menus](#hamburger-menus)
+* [System paradigms](#system-paradigms)
+
 ## Typography
 
 ### Uppercasing
