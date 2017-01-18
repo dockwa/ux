@@ -34,7 +34,7 @@ Anything that is meant to be read should never use uppercase text.
 Allow the eyes room to breath.
 Make sure you apply enough line height that text isn't squished.
 150% of the font size is a good place to start, giving 50% of the fonts height between two lines.
-[More on line height](https://www.quora.com/What-is-the-ideal-line-height-for-readability)
+[More on line height](https://www.quora.com/What-is-the-ideal-line-height-for-readability).
 
 ### Font weight
 
@@ -56,7 +56,7 @@ Most of the time a label is more appropriate.
 The biggest issues with placeholders is that they dissapear when you start typing.
 A label is clear and doesn't dissapear when you type.
 Using a placeholder as an example can also lead to confusion by the user whether something is already entered.
-[More on placeholders](https://uxdesign.cc/alternatives-to-placeholder-text-13f430abc56f#.36p3oc4qo)
+[More on placeholders](https://uxdesign.cc/alternatives-to-placeholder-text-13f430abc56f#.36p3oc4qo).
 
 | Bad usage of placeholders | Context disappears when form is completed |
 | --- | --- |
@@ -72,6 +72,8 @@ Hamburger menus can be unavoidable.
 However, if you can do without it, get rid of it.
 Hamburger menus are where features / actions in an interface go to die.
 On a mobile app? Use a tab bar instead.
+[More on hamburger menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/).
+[Funny tweet](https://twitter.com/lukew/status/443425041795928064?ref_src=twsrc%5Etfw).
 
 ## System paradigms
 
