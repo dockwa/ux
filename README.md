@@ -12,7 +12,9 @@ An interface should almost always weigh usability over looks.
   * [Font weight](#font-weight)
   * [Typeface](#typeface)
 * [Placeholders](#placeholders)
-* [Spacing (margin / padding)](#spacing-margin--padding)
+* [Spacing](#spacing)
+  * [Margin / Padding](#margin--padding)
+  * [Whitespace](#whitespace)
 * [Hamburger menus](#hamburger-menus)
 * [System paradigms](#system-paradigms)
 * [User Decisions](#user-decisions)
@@ -64,9 +66,15 @@ Using a placeholder as an example can also lead to confusion by the user whether
 | --- | --- |
 | ![Bad example](/img/placeholder-1.png) | ![Bad example](/img/placeholder-2.png) |
 
-## Spacing (margin / padding)
 
-Make all spacing **even** around every element on the screen. **Even spacing** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Even spacing** helps the eyes navigate the content. 
+## Spacing
+
+### Margin / Padding
+
+Make all margins / padding **equal** around every element on the screen. **Equal margin / padding** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Equal spacing** helps the eyes navigate the content. 
+
+### Whitespace
+If you aren't sure if you have enough whitespace, you need more whitespace. Leave plenty of space between elements. Let the eyes breathe. White pixels are free. [More on whitespace here](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
 
 ## Hamburger menus
 
