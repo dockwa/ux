@@ -32,7 +32,7 @@ That being said, USING ALL UPPERCASE CAN MAKE THINGS REALLY HARD FOR A USER TO R
 **There is no place in UI for uppercase text**, it can be "pretty" in design, but the user's experience is greatly degraded by how difficult ALLCAPS is to read.
 
 If you are making an logo, uppercase can be acceptable because you are making an image / icon - not text meant for reading.
-Anything that is meant to be read should never use uppercase text. More Info: [Wikipedia article about ALLCAPS](https://en.wikipedia.org/wiki/All_caps), [Succinct UX Explanation](http://uxmovement.com/content/all-caps-hard-for-users-to-read/), [Typographical Explanation](http://practicaltypography.com/all-caps.html), [explanation of how people read](http://www.graphics.com/article-old/how-people-read)
+Anything that is meant to be read should never use uppercase text. More Info: [Wikipedia article about ALLCAPS](https://en.wikipedia.org/wiki/All_caps), [Succinct UX Explanation](http://uxmovement.com/content/all-caps-hard-for-users-to-read/), [Typographical Explanation](http://practicaltypography.com/all-caps.html), [explanation of how people read](http://www.graphics.com/article-old/how-people-read).
 
 ### Line height
 
@@ -75,7 +75,7 @@ Using a placeholder as an example can also lead to confusion by the user whether
 Make all margins / padding **equal** around every element on the screen. **Equal margin / padding** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Equal spacing** helps the eyes navigate the content. 
 
 ### Whitespace
-If you aren't sure if you have enough whitespace, you need more whitespace. Leave plenty of space between elements. Let the eyes breathe. White pixels are free. [More on whitespace here](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
+If you aren't sure if you have enough whitespace, you need more whitespace. Leave plenty of space between elements. Let the eyes breathe. White pixels are free. [More on whitespace here](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space).
 
 ## Hamburger menus
 
@@ -90,7 +90,7 @@ On a mobile app? Use a tab bar instead.
 Use the native paradigms of the device or operating system.
 If you are building for Android, follow [Material Design](https://material.io/guidelines/)
 If you are building for iOS, follow Apple's [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
-If you are building for the web use native web patterns. For example, use a <select> input isntead of using a custom select dropdown. The <select> will be interpreted by the device you are on and displayed to the user appropriately. 
+If you are building for the web use native web patterns. For example, use a \<select\> input instead of using a custom select dropdown. The \<select\> will be interpreted by the device you are on and displayed to the user appropriately. 
 **Keep the user comfortable with what they know and use every day.**
 
 
