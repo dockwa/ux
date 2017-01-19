@@ -87,7 +87,7 @@ If you are building for the web use native web patterns. For example, use a <sel
 
 ## User Decisions
 
-Help the user succeed by not forcing them to make decisions. Aim for one button / call to action per page, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" give a clear course of action for every screen they see.  
+Help the user succeed by not forcing them to make decisions. Aim for one button / call to action per page, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" **give a clear course of action for every screen** they see.  
 
 ## Errors & Loading 
 
