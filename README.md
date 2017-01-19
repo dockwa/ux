@@ -36,7 +36,7 @@ If you are making an logo, uppercase can be acceptable because you are making an
 Anything that is meant to be read should never use uppercase text. More Info: [Wikipedia article about ALLCAPS](https://en.wikipedia.org/wiki/All_caps), [Succinct UX Explanation](http://uxmovement.com/content/all-caps-hard-for-users-to-read/), [Typographical Explanation](http://practicaltypography.com/all-caps.html), [explanation of how people read](http://www.graphics.com/article-old/how-people-read).
 
 ### Line height
-_Try to keep it at 150%_
+_Try to keep it at 150% of the font size._
 
 Allow the eyes room to breath.
 Make sure you apply enough line height that text isn't squished.
