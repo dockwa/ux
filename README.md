@@ -45,10 +45,10 @@ No matter how pretty the thinnest font it, consider giving something with a litt
 ### Typeface
 
 Consider using the font native to the device itself.
-iPhone app? Use the default San Francisco font.
+iPhone app? Use the default San Francisco font - even better, support [Dynamic Type](http://useyourloaf.com/blog/supporting-dynamic-type/) when possible so your app respects the user's preferences.
 Android app? Use the default Roboto font.
 On the web? Use system fonts.
-A custom font can be a cool look, however giving the user something they are used to once again improves readibility.
+A custom font can be a cool look for logos and other branding, but giving the user a font they are accustomed to improves readibility. People came to your app or site to _use_ it, not to admire how pretty it is.
 
 ## Placeholders
 
@@ -64,12 +64,11 @@ Using a placeholder as an example can also lead to confusion by the user whether
 
 ## Spacing (margin / padding)
 
-Keep spacing even around objects can help make a more cohesive interface and make things _fit_ on an interface better.
+Make all spacing **even** around every element on the screen. **Even spacing** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Even spacing** helps the eyes navigate the content. 
 
 ## Hamburger menus
 
-Hamburger menus can be unavoidable.
-However, if you can do without it, get rid of it.
+Hamburger menus can be unavoidable, but should be avoided unless absolutely necessary.
 Hamburger menus are where features / actions in an interface go to die.
 On a mobile app? Use a tab bar instead.
 [More on hamburger menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/).
@@ -77,9 +76,8 @@ On a mobile app? Use a tab bar instead.
 
 ## System paradigms
 
-Use paradigms that the device or operating system uses.
-If you are building for Android for example, use material design patterns.
-If you are building for the web, use a <select> input isntead of using a custom select dropdown.
-The select will be interpreted by the device you are on and displayed to the user appropriatly.
-If a use is on an iOS device, don't use patterns from Android and vice versus.
-Keep the user comfortable with what they know and use every day.
+Use the native paradigms of the device or operating system.
+If you are building for Android, follow [Material Design](https://material.io/guidelines/)
+If you are building for iOS, follow Apple's [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
+If you are building for the web use native web patterns. For example, use a <select> input isntead of using a custom select dropdown. The <select> will be interpreted by the device you are on and displayed to the user appropriately. 
+**Keep the user comfortable with what they know and use every day.**
