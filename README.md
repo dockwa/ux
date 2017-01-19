@@ -44,7 +44,7 @@ Make sure you apply enough line height that text isn't squished.
 [More on line height](https://www.quora.com/What-is-the-ideal-line-height-for-readability).
 
 ### Font weight
-_Not too thin/light!_ 
+_Not too thin or light._ 
 
 Don't use a font that is too thin.
 It can look nice to use a thin font, but remember the text has to be read with human eyes.
@@ -60,7 +60,7 @@ On the web? Use system fonts.
 A custom font can be a cool look for logos and other branding, but giving the user a font they are accustomed to improves readibility. People came to your app or site to _use_ it, not to admire how pretty it is.
 
 ## Placeholders
-_Don't use them!_ 
+_Don't use them._ 
 
 Most of the time a label is more appropriate.
 The biggest issues with placeholders is that they dissapear when you start typing.
@@ -76,12 +76,12 @@ Using a placeholder as an example can also lead to confusion by the user whether
 ## Spacing
 
 ### Margin / Padding
-_Keep it equal!_ 
+_Keep it equal._ 
 
 Make all margins / padding **equal** around every element on the screen. **Equal margin / padding** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Equal spacing** helps the eyes navigate the content. 
 
 ### Whitespace
-_You probably need more!_ 
+_You probably need more._ 
 
 If you aren't sure if you have enough whitespace, you need more whitespace. Leave plenty of space between elements. Let the eyes breathe. White pixels are free. [More on whitespace here](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space).
 
@@ -109,7 +109,7 @@ _Aim for one action per screen._
 Help the user succeed by not forcing them to make decisions. Aim for **one button / call to action per page**, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" **give a clear course of action for every screen** they see.  
 
 ## Errors & Loading 
-_Communicate app state to the user._ 
+_Clearly communicate app state to the user._ 
 
 The most important part of any relationship is communication. In the relationship of the user and the app, the app needs to clearly communicate what its doing and when things go wrong. When an error is encountered (such as a network error, an input error, a data validation issue, etc) explain it clearly to the user and give **a single clear course of action** to correct or handle the error. When the app is loading data over the network, **show a loading indicator** so the user knows why the app just stopped responding. Even better, add a line of descriptive text to explain what is loading along with a loading indicator. Clear communication from the app to the user promotes trust between the user and the app. 
 
