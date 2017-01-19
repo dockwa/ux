@@ -30,8 +30,8 @@ When we read words, we look more at the shapes of the words than each individual
 That being said, USING ALL UPPERCASE CAN MAKE THINGS REALLY HARD FOR A USER TO READ.
 There is no place in UI for uppercase text, it can be "pretty" in design, but the experience is hurt greatly by how difficult it becomes to read.
 
-If you are making an logo, uppercase can be ok, because you are making and image / icon.
-Anything that is meant to be read should never use uppercase text.
+If you are making an logo, uppercase can be acceptable because you are making an image / icon - not text meant for reading.
+Anything that is meant to be read should never use uppercase text. More Info: [Wikipedia article about ALLCAPS](https://en.wikipedia.org/wiki/All_caps), [Succinct UX Explanation](http://uxmovement.com/content/all-caps-hard-for-users-to-read/), [Typographical Explanation](http://practicaltypography.com/all-caps.html), [explanation of how people read](http://www.graphics.com/article-old/how-people-read)
 
 ### Line height
 
