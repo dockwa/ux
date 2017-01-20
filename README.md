@@ -4,7 +4,7 @@ A lot of the concepts may seem simple.
 But many of them are easy traps to fall into.
 Most of them are concepts that may _look nice_ on screen but have usibility issues.
 An interface should always value usability over looks.
-We are designing interfaces to be used, not to look pretty. Usability and readability are always more important than how 'pretty' the interface is. 
+We are designing interfaces to be used, so usability and readability are always more important than how 'pretty' the interface is. That being said, if you follow the guidelines below, you will end up with a clear and simple interface that is both good-looking and very usable. 
 
 ## Contents
 * [Typography](#typography)
