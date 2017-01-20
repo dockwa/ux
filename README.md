@@ -44,7 +44,7 @@ Make sure you apply enough line height that text isn't squished.
 [More on line height](https://www.quora.com/What-is-the-ideal-line-height-for-readability).
 
 ### Font weight
-_Not too thin or light._ 
+_Not too thin / light._ 
 
 Don't use a font that is too thin.
 It can look nice to use a thin font, but remember the text has to be read with human eyes.
