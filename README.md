@@ -115,7 +115,7 @@ _Clearly communicate app state to the user._
 The most important part of any relationship is communication. In the relationship of the user and the app, the app needs to clearly communicate what its doing and when things go wrong. When an error is encountered (such as a network error, an input error, a data validation issue, etc) explain it clearly to the user and give **a single clear course of action** to correct or handle the error. When the app is loading data over the network, **show a loading indicator** so the user knows why the app just stopped responding. Even better, add a line of descriptive text to explain what is loading along with a loading indicator. Clear communication from the app to the user promotes trust between the user and the app, and by extension, trust between the customer and the brand.
 
 ## Touch Interfaces
-_Make all touch targets big enough to be tapped with a finger._
+_Make all touch targets at least 75x75pts to 95x95pts._
 
 When designing interfaces that are intended to (or might be) used on a device with a touch screen (in 2017 that is nearly any website and definitely any native app), make sure that all 'touch targets' are large enough to be comfortably tapped with a finger. An ideal touch target is at least 12mm-15mm, or about 75pts-95pts. [Generous whitespace](#whitespace) with [equal margin / padding](#margin--padding) around all touch targets will also help to make your interface more touchable. [Detailed info on appropriately sizing touch targets here](http://scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces) 
 
