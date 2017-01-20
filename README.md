@@ -24,7 +24,7 @@ We are designing interfaces to be used, not to look pretty. Usability and readab
 ## Typography
 
 ### Uppercasing
-_Don't use ALLCAPS!_ 
+_Do **not** use ALLCAPS!_ 
 
 Sentence case is always the way to go.
 We are taught to read in sentences.
