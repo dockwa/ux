@@ -71,7 +71,7 @@ Using a placeholder as an example can also lead to confusion by the user whether
 
 | Bad usage of placeholders | Context disappears when form is completed |
 | --- | --- |
-| ![Bad example](https://dockwa.github.io/img/placeholder-1.png) | ![Bad example](https://dockwa.github.io//img/placeholder-2.png) |
+| ![Bad example](https://dockwa.github.io/ux/img/placeholder-1.png) | ![Bad example](https://dockwa.github.io/ux/img/placeholder-2.png) |
 
 
 ## Spacing
