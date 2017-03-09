@@ -4,11 +4,11 @@ A lot of the concepts may seem simple.
 But many of them are easy traps to fall into.
 Most of them are concepts that may _look nice_ on screen but have usibility issues.
 An interface should always value usability over looks.
-We are designing interfaces to be used, so usability and readability are always more important than how 'pretty' the interface is. That being said, if you follow the guidelines below, you will end up with a clear and simple interface that is both good-looking and very usable. 
+We are designing interfaces to be used, so usability and readability are always more important than how 'pretty' the interface is. That being said, if you follow the guidelines below, you will end up with a clear and simple interface that is both good-looking and very usable. A good explanation of some of the philosophies and techniques described in this guide can be found in this article about ["Complexion Reduction"](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.ly9x7zosu).
 
 ## Contents
 * [Typography](#typography)
-  * [Uppercasing](#uppercasing)
+  * [Uppercase](#uppercase)
   * [Line height](#line-height)
   * [Font weight](#font-weight)
   * [Typeface](#typeface)
@@ -24,7 +24,7 @@ We are designing interfaces to be used, so usability and readability are always 
 
 ## Typography
 
-### Uppercasing
+### Uppercase
 _Do **not** use ALLCAPS!_ 
 
 Sentence case is always the way to go.
