@@ -19,7 +19,7 @@ We are designing interfaces to be used, so usability and readability are always 
 * [Hamburger menus](#hamburger-menus)
 * [System paradigms](#system-paradigms)
 * [User Decisions](#user-decisions)
-* [Errors & Loading](#errors--loading-aka-avoiding-awkward-ui)
+* [Errors & Loading](#errors--loading-avoiding-awkward-ui)
 * [Touch Interfaces](#touch-interfaces)
 
 ## Typography
@@ -109,7 +109,7 @@ _Aim for one action per screen._
 
 Help the user succeed by not forcing them to make decisions. Aim for **one button / call to action per page**, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" **give a clear course of action for every screen** they see.  
 
-## Errors & Loading (aka avoiding "Awkward UI")
+## Errors & Loading (avoiding 'Awkward UI')
 _Clearly communicate app state to the user._ 
 
 The most important part of any relationship is communication. In the relationship of the user and the app, the app needs to clearly communicate what its doing and when things go wrong. When an error is encountered (such as a network error, an input error, a data validation issue, etc) explain it clearly to the user and give **a single clear course of action** to correct or handle the error. When the app is loading data over the network, **show a loading indicator** so the user knows why the app just stopped responding. Even better, add a line of descriptive text to explain what is loading along with a loading indicator. Clear communication from the app to the user promotes trust between the user and the app, and by extension, trust between the customer and the brand. [Here's one of the best articles about avoiding 'Awkward UI'.](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
