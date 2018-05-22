@@ -12,6 +12,7 @@ We are designing interfaces to be used, so usability and readability are always 
   * [Line height](#line-height)
   * [Font weight](#font-weight)
   * [Typeface](#typeface)
+  * [Alignment](#alignment)
 * [Placeholders](#placeholders)
 * [Spacing](#spacing)
   * [Margin / Padding](#margin--padding)
@@ -25,7 +26,7 @@ We are designing interfaces to be used, so usability and readability are always 
 ## Typography
 
 ### Uppercase
-_Do **not** use ALLCAPS!_ 
+_Do **not** use ALLCAPS!_
 
 Sentence case is always the way to go.
 We are taught to read in sentences.
@@ -45,7 +46,7 @@ Make sure you apply enough line height that text isn't squished.
 [More on line height](https://www.quora.com/What-is-the-ideal-line-height-for-readability).
 
 ### Font weight
-_Not too thin / light._ 
+_Not too thin / light._
 
 Don't use a font that is too thin.
 It can look nice to use a thin font, but remember the text has to be read with human eyes.
@@ -60,8 +61,17 @@ Android app? Use the default Roboto font.
 On the web? Use system fonts.
 A custom font can be a cool look for logos and other branding, but giving the user a font they are accustomed to improves readibility. People came to your app or site to _use_ it, not to admire how pretty it is.
 
+### Alignment
+_Don't center align text if it runs longer than one line._
+
+Centered text can be good for buttons, short lines of text, or call outs like headers to add visual symmetry to a page. When text runs longer than one line though it gets hard to read and gets the "Christmas Tree Effect" because it looks like a Christmas tree or text coming out both sides. Prefer to stick to left aligning text for longer more readable text.
+
+| Left aligned | Title and button look ok but paragraph is awkward to read |
+| --- | --- |
+| ![Left aligned](https://dockwa.github.io/ux/img/alignment-1.png) | ![Center aligned](https://dockwa.github.io/ux/img/alignment-2.png) |
+
 ## Placeholders
-_Don't use them._ 
+_Don't use them._
 
 Most of the time a label is more appropriate.
 The biggest issues with placeholders is that they dissapear when you start typing.
@@ -77,17 +87,17 @@ Using a placeholder as an example can also lead to confusion by the user whether
 ## Spacing
 
 ### Margin / Padding
-_Keep it equal._ 
+_Keep it equal._
 
-Make all margins / padding **equal** around every element on the screen. **Equal margin / padding** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Equal spacing** helps the eyes navigate the content. 
+Make all margins / padding **equal** around every element on the screen. **Equal margin / padding** will help make the interface more cohesive, look 'more professional', and make elements _fit_ together. **Equal spacing** helps the eyes navigate the content.
 
 ### Whitespace
-_You probably need more._ 
+_You probably need more._
 
 If you aren't sure if you have enough whitespace, you need more whitespace. Leave plenty of space between elements. Let the eyes breathe. White pixels are free. [More on whitespace here](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space).
 
 ## Hamburger menus
-_Avoid at all costs!_ 
+_Avoid at all costs!_
 
 Hamburger menus can be unavoidable, but should be avoided unless absolutely necessary.
 Hamburger menus are where features / actions in an interface go to die.
@@ -101,21 +111,21 @@ _Keep the user comfortable with what they know and use every day._
 Use the native paradigms of the device or operating system.
 If you are building for Android, follow [Material Design](https://material.io/guidelines/)
 If you are building for iOS, follow Apple's [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
-If you are building for the web use native web patterns. For example, use a \<select\> input instead of using a custom select dropdown. The \<select\> will be interpreted by the device you are on and displayed to the user appropriately. 
+If you are building for the web use native web patterns. For example, use a \<select\> input instead of using a custom select dropdown. The \<select\> will be interpreted by the device you are on and displayed to the user appropriately.
 
 
 ## User Decisions
-_Aim for one action per screen._ 
+_Aim for one action per screen._
 
-Help the user succeed by not forcing them to make decisions. Aim for **one button / call to action per page**, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" **give a clear course of action for every screen** they see.  
+Help the user succeed by not forcing them to make decisions. Aim for **one button / call to action per page**, or otherwise try keep the number of user actions on a page as low as possible. Never make the user ask themself "what do I do now?" **give a clear course of action for every screen** they see.
 
 ## Errors & Loading (avoiding 'Awkward UI')
-_Clearly communicate app state to the user._ 
+_Clearly communicate app state to the user._
 
 The most important part of any relationship is communication. In the relationship of the user and the app, the app needs to clearly communicate what its doing and when things go wrong. When an error is encountered (such as a network error, an input error, a data validation issue, etc) explain it clearly to the user and give **a single clear course of action** to correct or handle the error. When the app is loading data over the network, **show a loading indicator** so the user knows why the app just stopped responding. Even better, add a line of descriptive text to explain what is loading along with a loading indicator. Clear communication from the app to the user promotes trust between the user and the app, and by extension, trust between the customer and the brand. [Here's a highly recommended article about avoiding 'Awkward UI'.](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 
 ## Touch Interfaces
 _Make all touch targets at least 75x75pts._
 
-When designing interfaces that are intended to (or might be) used on a device with a touch screen (in 2017 that is nearly any website and definitely any native app), make sure that all 'touch targets' are large enough to be comfortably tapped with a finger. An ideal touch target is at least 12mm-15mm, or about 75pts-95pts. [Generous whitespace](#whitespace) with [equal margin / padding](#margin--padding) around all touch targets will also help to make your interface more touchable. [Detailed article on appropriately sizing touch targets here.](http://scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces) 
+When designing interfaces that are intended to (or might be) used on a device with a touch screen (in 2017 that is nearly any website and definitely any native app), make sure that all 'touch targets' are large enough to be comfortably tapped with a finger. An ideal touch target is at least 12mm-15mm, or about 75pts-95pts. [Generous whitespace](#whitespace) with [equal margin / padding](#margin--padding) around all touch targets will also help to make your interface more touchable. [Detailed article on appropriately sizing touch targets here.](http://scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces)
 
