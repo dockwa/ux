@@ -122,7 +122,12 @@ Help the user succeed by not forcing them to make decisions. Aim for **one butto
 ## Errors & Loading (avoiding 'Awkward UI')
 _Clearly communicate app state to the user._
 
-The most important part of any relationship is communication. In the relationship of the user and the app, the app needs to clearly communicate what its doing and when things go wrong. When an error is encountered (such as a network error, an input error, a data validation issue, etc) explain it clearly to the user and give **a single clear course of action** to correct or handle the error. When the app is loading data over the network, **show a loading indicator** so the user knows why the app just stopped responding. Even better, add a line of descriptive text to explain what is loading along with a loading indicator. Clear communication from the app to the user promotes trust between the user and the app, and by extension, trust between the customer and the brand. [Here's a highly recommended article about avoiding 'Awkward UI'.](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+The most important part of any relationship is communication! In the relationship of the user and the app, the app needs to clearly communicate what it's doing and when things go wrong. Clear communication from the app to the user promotes trust with the product, and by extension, trust between the customer and the brand. [Here's a highly recommended article about avoiding 'Awkward UI'.](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+
+**Handle all errors:** When an error is encountered (such as a network error, a data validation error, or other unexpected situation, etc) explain to the user what happened in simple, clear, positive, and fun language without getting technical or too wordy (as a general rule, users don't read, so be as concise as possible!) When appropriate, include an error code or HTTP status code to help customer support (and future you!) in reproducing and debugging the issue. Along with telling the user what went wrong, give **a single clear course of action** to correct or handle the error.
+
+**Show app state:** When the app is loading data over the network or performing a long running operation, **show a loading indicator** so the user knows what is going on. Even better, add descriptive and fun copy to explain what is loading along with the loading indicator. 
+
 
 ## Touch Interfaces
 _Make all touch targets at least 75x75pts._
